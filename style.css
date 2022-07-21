@@ -1,0 +1,43 @@
+body {
+    background: #d6eaf8;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .gradient-button {
+    width: 300px;
+    text-decoration: none;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px; 
+    background-size: 200% auto;
+    font-family: Impact , sans-serif;
+    font-size: 20px;
+    background-color: rgb(218, 214, 214);
+  }
+  .gradient-button:hover{
+    background-color: rgb(194, 193, 193);
+  }
+  .gradient-button:focus {
+    background-color: rgb(155, 151, 151);
+  }
+
+  header {
+    text-align: center;
+    color: #fff;
+    background-color: #000;
+    display:block;
+    font-size: 30px;
+    margin-top: 0;
+    height: 35px;
+    padding-top: 0;
+    align-items: center;
+    text-decoration: none;
+    list-style-type: none;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #fff;
+  }
